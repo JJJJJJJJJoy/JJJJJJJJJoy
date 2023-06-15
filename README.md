@@ -2,15 +2,10 @@
 <h3 align="left">A Software Engineer from Taiwan</h3><br />
 
 <h4 align="left">- Python </h4>
-
 <h4 align="left">- MySQL,MongoDB</h4>
-
 <h4 align="left">- Flask,OpenCV</h4>
-
 <h4 align="left">- Docker,NginX</h4>
-
 <h4 align="left">- Linux,Git</h4>
-
 <h4 align="left">- AWS,GCP</h4><br />
 
 <p align="left">
