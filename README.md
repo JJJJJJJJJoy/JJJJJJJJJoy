@@ -4,7 +4,7 @@
 <h15 align="left">* Python </h15><br />
 <h8 align="left">- MySQL,MongoDB</h8>
 
-<h7 align="left">- Flask,OpenCV</h7>
+<h6 align="left">- Flask,OpenCV</h6>
 
 <h7 align="left">- Docker,NginX</h7>
 
