@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋, I'm Joy Chen</h1><br />
 
-<h3 align="left"><p class="underline">A Software Engineer from Taiwan</h3></p>
+<h3 align="left">A Software Engineer from Taiwan</h3>
 
 <h4 align="left">- Python </h4>
 
 <h4 align="left">- MySQL,MongoDB</h4>
 
-<h5 align="left">- Flask,OpenCV</h5>
+<h4 align="left">- Flask,OpenCV</h4>
 
 <h5 align="left">- Docker,NginX</h5>
 
