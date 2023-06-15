@@ -8,11 +8,11 @@
 
 <h4 align="left">- Flask,OpenCV</h4>
 
-<h5 align="left">- Docker,NginX</h5>
+<h4 align="left">- Docker,NginX</h4>
 
-<h5 align="left">- Linux,Git</h5>
+<h4 align="left">- Linux,Git</h4>
 
-<h5 align="left">- AWS,GCP</h5><br />
+<h4 align="left">- AWS,GCP</h4><br />
 
 <p align="left">
 </p>
