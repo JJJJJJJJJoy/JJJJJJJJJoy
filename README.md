@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Joy Chen</h1>
 <h3 align="center">A passionate Software Engineer from Taiwan</h3>
+
 <h7 align="center">- Python</h7>
-<h7 align="center">- MySQL,MongoDB,Redis</h7>
-<h7 align="center">- Flask,Git</h7>
+
+<h7 align="center">- MySQL,MongoDB</h7>
+
+<h7 align="center">- Flask,OpenCV</h7>
+
 <h7 align="center">- Docker,NginX</h7>
+
+<h7 align="center">- Linux,Git</h7>
+
 <h7 align="center">- AWS,GCP</h7>
 
 <p align="left">
