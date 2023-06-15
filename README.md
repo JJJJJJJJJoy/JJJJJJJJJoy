@@ -12,11 +12,7 @@
 
 <h6 align="left">- Linux,Git</h6>
 
-<h6 align="left">- AWS,GCP</h6>
-
-
-
-
+<h6 align="left">- AWS,GCP</h6><br />
 
 <p align="left">
 </p>
