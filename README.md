@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Joy Chen</h1><br />
 
-<h3 align="left">A Software Engineer from Taiwan</h3>
-
+<h3 align="left">A Software Engineer from Taiwan</h3><br />
 <h4 align="left">- Python </h4>
 
 <h4 align="left">- MySQL,MongoDB</h4>
