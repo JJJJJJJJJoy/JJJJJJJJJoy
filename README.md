@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Joy Chen</h1>
-<h3 align="center">A passionate Software Engineer from Taiwan</h3>
+<h1 align="left">Hi 👋, I'm Joy Chen</h1>
+<h3 align="left">A passionate Software Engineer from Taiwan</h3>
 
 <h7 align="left">- Python</h7>
 
