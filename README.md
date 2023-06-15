@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Joy Chen</h1>
+<h1 align="left">Hi 👋, I'm Joy Chen</h1><br />
 
 <h3 align="left">A Software Engineer from Taiwan</h3><br />
 
